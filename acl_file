@@ -1,0 +1,6 @@
+user L520
+topic read notify
+user Publisher
+topic notify
+user Publisher
+topic read $SYS/#
